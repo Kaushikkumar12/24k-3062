@@ -1,0 +1,9 @@
+Ask the user to enter the value of Num_1
+Ask the user to enter the value of Num_2
+Ask the user to enter a Operator
+If operator = "+" Display (Num_1 + Num_2)
+else If operator = "-" Display to (Num_1 - Num_2)
+else If operator = "*" Display to (Num_1 * Num_2)
+else If operator = "/" Display to (Num_1 / Num_2)
+else If operator = "%" Display to (Num_1 % Num_2)
+Otherwise Display Invalid Operator/ Does't Exist
