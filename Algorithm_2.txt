@@ -1,0 +1,14 @@
+Ask the user to enter a Number M corresponding to the month 
+If M = 1 Display Januar
+else If M = 2 Display Febuary
+else If M = 3 Display March
+else If M = 4 Display April
+else If M = 5 Display May
+elseIf M = 6 Display June
+else If M = 7 Display July
+else If M = 8 Display August
+else If M = 9 Display September
+else If M = 10 Display October
+else If M = 11 Display November
+else If M = 12 Display December
+Otherwise Print No such month exists
