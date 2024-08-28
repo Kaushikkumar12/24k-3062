@@ -1,0 +1,15 @@
+START
+
+INPUT Num1
+INPUT Num2
+INPUT Num3
+
+IF Num1 > Num2 && Num1 > Num3 THEN
+  SET Highest_Num to Num1
+ELSE IF Num2 > Num1 && Num2 > Num3 THEN
+  SET Highest_Num to Num2
+ELSE
+  SET Highest_Num to Num3
+
+PRINT Highest_Num
+END
