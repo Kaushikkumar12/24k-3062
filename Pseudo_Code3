@@ -1,0 +1,12 @@
+START
+
+INPUT Num_1
+INPUT Num_2
+INPUT Operator
+
+IF Operator == "+" THEN
+  SET Result to Num_1 + Num_2
+ELSE
+  SET Result to Num_1 - Num_2
+PRINT Result
+END
