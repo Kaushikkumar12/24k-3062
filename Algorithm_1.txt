@@ -1,0 +1,8 @@
+Ask the user to enter a Number Nth
+Ask the user to enter a Number N
+If N % Nth = 0 
+Display Nth is a divisor or N
+Otherewise Display Nth is not a divisor of N
+If n % 2 = 0
+Display N is an even number
+Otherwise Display N is a odd Number
